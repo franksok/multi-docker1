@@ -20,4 +20,4 @@ after_success:
   - docker push okitsnotok/multi-client
   - docker push okitsnotok/multi-nginx
   - docker push okitsnotok/multi-server
-  - docker push okitsnotok/multi-./worker
+  - docker push okitsnotok/multi-worker
